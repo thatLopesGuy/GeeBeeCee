@@ -1,4 +1,4 @@
-package com.github.thatlopesguy;
+package com.github.thatlopesguy.application;
 
 /**
  * Hello world!
